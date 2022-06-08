@@ -1,0 +1,12 @@
+This project is about predicting the price of 
+a car model in the dataset with various car features as input 
+viz., 
+['year',  
+'km_traveled',  
+'tax', 
+'engineSize',  
+'km_per_liters', 
+'model', 
+'transmission', 
+'fuel_type']
+The model developed is dumped into .pkl file and deployed using streamlit.
