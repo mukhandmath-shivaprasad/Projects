@@ -1,3 +1,3 @@
 # Projects
 
-This Repo includes all the projects performed
+This Repo includes all the portfolio projects. 
